@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './styles/global.css'
 import { App } from './App'
-import { AuthProvider } from './context/auth'
+import { AuthProvider } from './contexts/auth'
 
 ReactDOM.render(
   <React.StrictMode>
